@@ -10,4 +10,4 @@ output:
   special_records: false
   memory:
     from: 'EEEE'
-    to: 'EEFE'
+    to: 'EEEF'

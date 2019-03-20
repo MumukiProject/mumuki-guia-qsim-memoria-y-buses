@@ -1,0 +1,6 @@
+- name: Los anchos de los buses son correctos
+  keys:
+    bits-direcciones:
+      equal: 16
+    bits-datos:
+      equal: 16

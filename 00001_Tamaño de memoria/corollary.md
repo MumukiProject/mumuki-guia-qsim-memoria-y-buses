@@ -1,0 +1,3 @@
+¡Genial! :muscle:
+
+La capacidad de la memoria se mide en bytes, pero como verás, aún en una memoria pequeña como la nuestra ya hablamos de más de cien mil bytes :open_mouth:. Por eso se utilizan múltiplos de los que seguramente oíste hablar: **kilobytes**, **megabytes** y **gigabytes**. Por ejemplo, una computadora moderna puede tener 8 gigabytes de memoria RAM. Si tuviésemos que expresarlo en bytes hablaríamos de... ¡8589934592 bytes! :scream:

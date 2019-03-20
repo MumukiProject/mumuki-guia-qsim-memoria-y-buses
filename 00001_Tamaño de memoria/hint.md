@@ -1,0 +1,1 @@
+Una vez más, ¡recordá que un byte equivale a ocho bits! :grimacing:

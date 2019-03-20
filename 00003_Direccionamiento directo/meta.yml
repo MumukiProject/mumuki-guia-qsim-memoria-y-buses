@@ -1,0 +1,28 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Puede usarse direccionamiento directo en el operando destino.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Puede usarse direccionamiento directo en el operando origen.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Puede usarse direccionamiento inmediato en el operando destino.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Puede usarse direccionamiento inmediato en el operando origen.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Puede usarse direccionamiento de registro en el operando destino.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Puede usarse direccionamiento de registro en el operando origen.
+  checked: true
+name: Direccionamiento directo

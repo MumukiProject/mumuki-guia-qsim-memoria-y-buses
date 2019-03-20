@@ -1,0 +1,1 @@
+¿Problemas de *memoria*? :stuck_out_tongue_winking_eye: El primer operador que se escribe en la instrucción es el **operando destino**, y el segundo, el **operador origen**. Hay un tipo de direccionamiento en el que no se pueden guardar valores... ¿recordás cuál es? :open_mouth:

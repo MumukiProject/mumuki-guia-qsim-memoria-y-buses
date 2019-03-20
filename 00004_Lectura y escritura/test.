@@ -9,5 +9,5 @@ output:
   records: true
   special_records: false
   memory:
-    from: 'EEFE'
-    to: 'EEFF'
+    from: '0000'
+    to: '0100'

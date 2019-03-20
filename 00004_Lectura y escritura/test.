@@ -10,4 +10,4 @@ output:
   special_records: false
   memory:
     from: '0000'
-    to: '0100'
+    to: '00DC'

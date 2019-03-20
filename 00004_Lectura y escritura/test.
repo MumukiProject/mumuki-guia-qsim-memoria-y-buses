@@ -3,7 +3,7 @@ examples:
   postconditions:
     equal:
       R4: '22FF'
-      00DF: '22FF'
+      00DE: '22FF'
 output:
   flags: false
   records: true

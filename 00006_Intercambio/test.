@@ -3,6 +3,10 @@ examples:
   postconditions:
     equal:
       '22FF': 'FFFF'
+- name: '...'
+  postconditions:
+    equal:
+      '22FE': 'FFFF'
 output:
   flags: false
   records: true

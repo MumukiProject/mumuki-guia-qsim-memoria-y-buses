@@ -1,1 +1,12 @@
-...
+examples:
+- name: 'FFFF should be FFFF'
+  postconditions:
+    equal:
+      'FFFF': 'FFFF'
+output:
+  flags: false
+  records: true
+  special_records: false
+  memory:
+    from: '0000'
+    to: '00AA'

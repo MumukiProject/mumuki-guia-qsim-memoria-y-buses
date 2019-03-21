@@ -1,4 +1,4 @@
-En los ejercicios que vinimos trabajando teníamos 8 registros, de R0 a R7, que podían guardar 16 bits de información. Haciendo la multiplicación :heavy_multiplication_x: podemos saber cuánto lugar tenemos para almacenar datos: son 128 bits de capacidad, o 16 bytes.
+En los ejercicios que vinimos trabajando teníamos 8 registros, de `R0` a `R7`, que podían guardar 16 bits de información. Haciendo la multiplicación :heavy_multiplication_x: podemos saber cuánto lugar tenemos para almacenar datos: son 128 bits de capacidad, o 16 bytes.
 
 Pero esa cantidad de espacio es pequeña al lado del de la **memoria** - un gran conjunto de **celdas** donde pueden almacenarse aún más datos cuando los registros no son suficiente. :satisfied:
 

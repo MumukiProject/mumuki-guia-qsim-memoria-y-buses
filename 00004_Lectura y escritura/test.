@@ -1,8 +1,8 @@
 examples:
-- name: 'Se copia el valor del registro R4 a la posición de memoria 0x0080'
+- name: 'Se copia el valor del registro R4 a la posición de memoria 0x0030'
   postconditions:
     equal:
-      '0080': '22FF'
+      '0030': '22FF'
 output:
   flags: false
   records: true

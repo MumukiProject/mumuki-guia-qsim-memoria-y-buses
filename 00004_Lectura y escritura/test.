@@ -7,10 +7,10 @@ examples:
     equal:
       R4: '22FF'
       EEEF: '22FF'
-  output:
-    flags: false
-    records: true
-    special_records: false
-    memory:
-      from: 'EEEE'
-      to: 'EEFE'
+output:
+  flags: false
+  records: true
+  special_records: false
+  memory:
+    from: 'EEEE'
+    to: 'EEFE'

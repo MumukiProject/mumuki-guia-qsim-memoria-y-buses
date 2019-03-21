@@ -1,0 +1,1 @@
+¡Genial! :raised_hands: Ya sabés cómo funcionan las computadoras casi en su completitud. No sólo entendés cómo se relacionan **memoria** y **CPU**, sino que además aprendiste sobre otros dispositivos que hacen a una computadora, como los de **almacenamiento** y los de **entrada/salida**. ¡Felicitaciones! :tada:

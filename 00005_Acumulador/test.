@@ -1,8 +1,8 @@
 examples:
-- name: 'FFFF should be FFFF'
+- name: '22FF should be FFFF'
   postconditions:
     equal:
-      'FFFF': 'FFFF'
+      '22FF': 'FFFF'
 output:
   flags: false
   records: true

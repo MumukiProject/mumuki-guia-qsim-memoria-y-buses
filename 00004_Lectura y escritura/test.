@@ -1,16 +1,16 @@
 examples:
 - name: 'Se copia el valor del registro R4 a la posición de memoria 0xEEEF'
- preconditions:
-     R4: '22FF'
-     EEEF: '22FF'
- postconditions:
-   equal:
-     R4: '22FF'
-     EEEF: '22FF'
+  preconditions:
+    R4: '22FF'
+    EEEF: '22FF'
+  postconditions:
+    equal:
+      R4: '22FF'
+      EEEF: '22FF'
 output:
- flags: false
- records: true
- special_records: false
- memory:
-   from: 'EEEE'
-   to: 'EEFE'
+  flags: false
+  records: true
+  special_records: false
+  memory:
+    from: 'EEEE'
+    to: 'EEFE'

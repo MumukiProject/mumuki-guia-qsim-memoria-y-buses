@@ -1,0 +1,3 @@
+¡Correcto! :tada:
+
+Es importante no confundir los valores *constantes* con las *direcciones de memoria*. Se ven parecidos, porque los dos son hexadecimales (empiezan con `0x`) de cuatro dígitos. Pero son cosas muy distintas: la constante es un número que no varía, mientras que la dirección de memoria apunta a una celda en la cual está almacenada otro valor. En nuestro caso, ese valor es `4C5E` (¡también hexadecimal y de cuatro dígitos! :cold_sweat:)

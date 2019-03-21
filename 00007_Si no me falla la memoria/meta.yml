@@ -1,0 +1,22 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En `R1` queda almacenado el número `A112` y en `R2` también
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En `R1` queda almacenado el número `4C5E` y en `R2` también.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En `R1` queda almacenado el número `4C5E` y en `R2` el número `A112`.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En `R1` queda almacenado el número `A112` y en `R2` el número `4C5E`.
+  checked: true
+name: Si no me falla la memoria

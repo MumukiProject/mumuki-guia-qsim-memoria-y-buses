@@ -8,3 +8,4 @@ Y cuando guardás un archivo o recibís una foto, ¿dónde se guarda? No puede s
 
 Se guardan en algún **dispositivo de almacenamiento externo**, y los hay de muchos tipos: discos duros, discos de estado sólido, memorias USB como pendrives, tarjetas SD... suelen tener más capacidad que la memoria de la computadora, pero son mucho más lentos para leer y escribir. A cambio, los datos quedan guardados permanentemente... ¡y eso no es poca cosa! :grin:
 
+En la actualidad, existen discos de más de un **terabyte** de capacidad. Eso es equivalente a 1000000000000 bytes... ¿tenés idea cuántos bits son? :wink:

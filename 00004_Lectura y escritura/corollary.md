@@ -1,4 +1,4 @@
-¡Muy bien! :tada: En los resultados podés ver las celdas de memoria relevantes al ejercicio. Como la memoria es muy grande, sólo te mostramos las direcciones que nos importan: `EEEF` para el primer resultado y `EEEE` para el segundo (el resto, con `0000`, son otras direcciones cuyas celdas están vacías).
+¡Muy bien! :tada: En los resultados podés ver las celdas de memoria relevantes al ejercicio. Como la memoria es muy grande, sólo te mostramos las direcciones que nos importan: `EEEF` para el primer resultado y `EEEE` para el segundo.
 
 Lo que ocurre en un proceso de **lectura** de memoria (también comocido como *read*, en inglés) es lo siguiente:
 

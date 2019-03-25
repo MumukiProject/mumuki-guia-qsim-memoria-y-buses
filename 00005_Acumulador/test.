@@ -8,10 +8,6 @@ examples:
   postconditions:
     equal:
       'R2': 'BFDB'
-  output:
-    memory:
-      from: '2525'
-      to: '2527'
 - name: 'Se le suman otros valores de las direcciones 0x2525, 0x2526 y 0x2527 al registro R2 luego de inicializarlo en 0'
   preconditions:
     '2525': 'A411'
@@ -21,7 +17,7 @@ examples:
   postconditions:
     equal:
       'R2': 'E5F5'
-  output:
-    memory:
-      from: '2525'
-      to: '2527'
+output:
+  memory:
+    from: '2525'
+    to: '2527'

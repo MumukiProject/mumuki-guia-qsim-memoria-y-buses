@@ -5,14 +5,17 @@ examples:
   postconditions:
     equal:
       'EEEF': '22FF'
+  output:
+    memory:
+      from: 'EEEF'
+      to: 'EEFE'
 - name: 'Se copia el valor de la posición de memoria 0xEEEE al registro R3'
   preconditions:
     'EEEE': '4A5A'
   postconditions:
     equal:
       R3: '4A5A'
-output:
-  records: true
-  memory:
-    from: 'EEEE'
-    to: 'EEFD'
+  output:
+    memory:
+      from: 'EEEE'
+      to: 'EEFD'

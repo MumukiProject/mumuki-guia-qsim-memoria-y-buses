@@ -8,7 +8,7 @@ examples:
   output:
     memory:
       from: 'EEEF'
-      to: 'EEFE'
+      to: 'EEEF'
 - name: 'Se copia el valor de la posición de memoria 0xEEEE al registro R3'
   preconditions:
     'EEEE': '4A5A'
@@ -18,4 +18,4 @@ examples:
   output:
     memory:
       from: 'EEEE'
-      to: 'EEFD'
+      to: 'EEEE'

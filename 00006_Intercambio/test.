@@ -19,3 +19,23 @@ examples:
       R5: '6A9A'
       R6: '4FF5'
       R7: 'FC23'
+- name: 'Se intercambian otros valores de R6 y R7 sin modificar el resto de los registros'
+  preconditions:
+    R0: 'B1B2'
+    R1: '66FD'
+    R2: '01A0'
+    R3: 'E511'
+    R4: '8CAE'
+    R5: '7F77'
+    R6: 'B42B'
+    R7: '322E'
+  postconditions:
+    equal:
+      R0: 'B1B2'
+      R1: '66FD'
+      R2: '01A0'
+      R3: 'E511'
+      R4: '8CAE'
+      R5: '7F77'
+      R6: '322E'
+      R7: 'B42B'

@@ -8,7 +8,7 @@ examples:
   postconditions:
     equal:
       'R2': 'BFDB'
-- name: 'Se le suman los valores de las direcciones 0x2525, 0x2526 y 0x2527 al registro R2 luego de inicializarlo en 0'
+- name: 'Se le suman otros valores de las direcciones 0x2525, 0x2526 y 0x2527 al registro R2 luego de inicializarlo en 0'
   preconditions:
     '2525': 'A411'
     '2526': '12DD'

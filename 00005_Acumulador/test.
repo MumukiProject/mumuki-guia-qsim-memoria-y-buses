@@ -1,12 +1,23 @@
 examples:
-- name: '22FF should be FFFF'
+- name: 'Se le suman los valores de las direcciones 0x2525, 0x2526 y 0x2527 al registro R2 luego de inicializarlo en 0'
+  preconditions:
+    '2525': '090A'
+    '2526': '4FFF'
+    '2527': '66D2'
+    R2: '7777'
   postconditions:
     equal:
-      '22FF': 'FFFF'
+      'R2': 'BFDB'
+- name: 'Se le suman los valores de las direcciones 0x2525, 0x2526 y 0x2527 al registro R2 luego de inicializarlo en 0'
+  preconditions:
+    '2525': 'A411'
+    '2526': '12DD'
+    '2527': '2F07'
+    R2: '5544'
+  postconditions:
+    equal:
+      'R2': 'E5F5'
 output:
-  flags: false
-  records: true
-  special_records: false
   memory:
-    from: '0000'
-    to: '0050'
+    from: '2525'
+    to: '2527'

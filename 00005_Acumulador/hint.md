@@ -1,0 +1,1 @@
+:warning: ¡Atención a no confundir un valor *constante* con una *dirección de memoria*! Las direcciones de memoria se escriben entre corchetes, como `[0xF32A]`, y los números constantes van siempre en hexadecimal, como `0x14C9`.
